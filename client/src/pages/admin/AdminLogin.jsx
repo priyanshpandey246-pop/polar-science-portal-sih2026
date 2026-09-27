@@ -132,8 +132,8 @@ export default function AdminLogin() {
           </form>
 
           <div className="mt-6 rounded-lg bg-slate-50 p-4 text-xs leading-5 text-slate-500">
-            Protected administrator access • SIH 2026 Prototype
-          </div>
+            Protected administrator access • Authorized users only
+        </div>
         </div>
       </main>
     </div>

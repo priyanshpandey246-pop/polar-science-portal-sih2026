@@ -133,10 +133,6 @@ useEffect(() => {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      {/* SIH Top Bar */}
-      <div className="bg-[#092c4c] px-6 py-2 text-center text-xs text-blue-100">
-        Smart India Hackathon 2026 • Polar Science Knowledge & Outreach Prototype
-      </div>
 
       {/* Navbar */}
       <header className="border-b border-slate-200 bg-white">
@@ -446,14 +442,14 @@ useEffect(() => {
           </div>
 
           <p className="mt-2 max-w-xl text-sm leading-6 text-blue-200">
-            SIH 2026 functional prototype for integrated polar science
-            knowledge, outreach and media dissemination.
-          </p>
+  An integrated platform for polar science knowledge, research discovery,
+  scientific media and public outreach.
+</p>
 
           <div className="mt-8 border-t border-white/10 pt-5 text-xs text-blue-300">
-            Prototype for Smart India Hackathon 2026 • Scientific information
-            will be attributed to authoritative public sources.
-          </div>
+  Polar Knowledge Portal • Scientific information is linked to
+  authoritative sources where available.
+</div>
         </div>
       </footer>
     </div>
